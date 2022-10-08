@@ -1,3 +1,3 @@
 # Бейджи
 
-![Артулион замеаний](./badge-artulion.svg)
+![Артулион замечаний](./badge-artulion.svg)
